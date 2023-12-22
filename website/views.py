@@ -4,4 +4,4 @@ from django.http import HttpResponse
 
 
 class HomeView(TemplateView):
-    template_name = "home.html"
+    template_name = "website/home.html"
